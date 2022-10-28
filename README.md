@@ -1,3 +1,8 @@
+#miesniowka
+
+An app like todo list, where user can search for exercises, read instructions about them, watch an instructional video and then add them to a day of the week on his list. The app is still under construction.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
